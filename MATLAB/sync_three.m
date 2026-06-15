@@ -1,4 +1,4 @@
-% Model         :   electromagic
+ % Model         :   electromagic
 % Description   :   A program to simulate rotating magnetic fields 
 %                   OR travelling magnetic fields produced from 
 %                   addition of three pulsating waveforms
@@ -9,9 +9,9 @@
 % Copyright 2025-26 Synchronous Drives & Inverters Private Limited
 
 clear all;
-d = [0:1:720]; %space in degrees or meters, just for x-axis of the plot.
-x = [0:2*pi/360:4*pi]; %sine angle in radians, for calculation of amplitude.
-f = 0.1; %frequency of harmonic wave.
+d = [0:1:720];          %space in degrees or meters, x-axis of the plot.
+x = [0:2*pi/360:4*pi];  %sine angle in radians, for calculation of amplitude.
+f = 0.1;                %frequency of harmonic wave.
 Ts = 100e-3;            %sec // sample time for simulation
 T_simulation = 25;      %sec // total simulation time
 display('Press Ctrl+C to stop simulation!')

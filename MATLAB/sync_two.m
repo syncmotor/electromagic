@@ -1,7 +1,7 @@
 % Model         :   electromagic
 % Description   :   A program to simulate three pulsating waveforms
 %                   Press Ctrl+C to stop simulation!
-% File name     :   sync_part_b.m
+% File name     :   sync_two.m
 % contact       :   support@syncmotor.com
 
 % Copyright 2025-26 Synchronous Drives & Inverters Private Limited

@@ -1,4 +1,4 @@
- % Model         :   electromagic
+% Model         :   electromagic
 % Description   :   A program to simulate rotating magnetic fields 
 %                   OR travelling magnetic fields produced from 
 %                   addition of three pulsating waveforms

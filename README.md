@@ -19,7 +19,7 @@ Current solutions:
 2) Python (in progress)
 
 Concept: Prof K. L. Arora, SVNIT
-re-created by: Darshankumar Pandit
+re-created by: Darshankumar Pandit (MATLAB), Tanmay Vagadia (Python), Google Gemini Pro AI (Python)
 
 Copyright (C) 2025-26 Synchronous Drives & Inverters Private Limited
 contact support@syncmotor.com for help.
